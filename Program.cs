@@ -45,6 +45,8 @@
             }
 
         }
+
+        
         class AppendTextCommand
         {
             private string _originalText;
